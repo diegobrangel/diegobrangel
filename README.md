@@ -125,11 +125,13 @@ Sistema web desenvolvido para gerenciar o ciclo completo de uma fábrica de esqu
 
 ### Gravity — Jogo mobile publicado na Play Store
 
-> Dart · Flutter · [Ver na Play Store](https://play.google.com/store/apps/details?id=com.gravidade.app)
+> Dart · Flutter · Android Studio · Projeto pessoal · [▶ Jogar na Play Store](https://play.google.com/store/apps/details?id=com.gravidade.app)
 
-Runner infinito 2D com background parallax em que o personagem alterna o centro gravitacional para desviar de obstáculos que surgem tanto do chão quanto do teto. Desenvolvido do zero e publicado de forma independente na Google Play Store.
+Runner infinito 2D com estética pixel art e cenário cyberpunk. O jogador controla um personagem que pode inverter a gravidade a qualquer momento para desviar de obstáculos que surgem tanto do chão quanto do teto em velocidade crescente.
 
-**Stack:** Dart · Flutter
+O jogo conta com background parallax multicamada, progressão por fases, sistema de pontuação e placar de recordes. O jogo foi desenvolvido, publicado e mantido de forma independente na Google Play Store.
+
+**Stack & Ferramentas:** Dart · Flutter · Android Studio
 
 ---
 
