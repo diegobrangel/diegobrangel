@@ -82,6 +82,29 @@ Gosto de entender o problema antes de escrever código, buscar soluções simple
 
 ---
 
+## 🚀 Projeto em destaque
+
+### Perfila — Sistema de gestão para fábrica de esquadrias de alumínio
+
+> Repositório privado · Em produção
+
+Sistema web desenvolvido para gerenciar o ciclo completo de uma fábrica de esquadrias de alumínio: do pedido de venda até a entrega na obra. Cobre produção, expedição, roteirização de entregas e acompanhamento por motoristas.
+
+**O que o sistema resolve:**
+- Controle de ordens de produção com algoritmo de corte por barra (otimização de aproveitamento de material)
+- Planejamento e montagem de cargas com regras de ocupação mínima e restrições por faixa
+- Roteirização de entregas com geocodificação automática via Nominatim e visualização em mapa (MapLibre GL)
+- Rastreamento do status de cada entrega em tempo real
+- Impressão de etiquetas e romaneios em PDF
+- Controle de estoque e importação de pedidos via planilha
+- RBAC completo: administrador, expedição, motorista, representante
+
+**Stack principal:** Next.js · React · TypeScript · PostgreSQL · Prisma · Tailwind CSS · Docker · GitHub Actions
+
+**Qualidade:** suíte de testes E2E com Playwright cobrindo os fluxos críticos (autenticação, cadastros, importação, algoritmos, carregamento e rotas), testes unitários com Vitest e CI/CD automatizado com deploy incremental.
+
+---
+
 ## Contribuições
 
 <picture>
