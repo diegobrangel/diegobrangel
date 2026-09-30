@@ -50,6 +50,7 @@ Sou desenvolvedor fullstack com experiência em sistemas de gestão empresarial,
 **Banco de Dados & Cache**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird_SQL-F0A500?style=for-the-badge&logo=databricks&logoColor=white)
@@ -68,20 +69,7 @@ Sou desenvolvedor fullstack com experiência em sistemas de gestão empresarial,
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![PHPStan](https://img.shields.io/badge/PHPStan-8892BF?style=for-the-badge&logo=php&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegobrangel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="GitHub Stats do Diego"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobrangel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=diegobrangel&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</p>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
