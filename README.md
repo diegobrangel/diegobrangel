@@ -13,7 +13,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=diegobrangel&style=for-the-badge&color=6366f1&label=VISITAS" alt="Visitas ao perfil"/>
+  <a href="mailto:diegobrangel8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/5527993114882" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
@@ -30,10 +36,10 @@ Gosto de entender o problema antes de escrever código, buscar soluções simple
 
 ## Atualmente
 
-🧩 Desenvolvimento de aplicações web  
-🧪 Automação de testes e E2E  
-⚙️ CI/CD e qualidade de software  
-📚 Bacharelado em Sistemas de Informação  
+- Desenvolvimento de aplicações web  
+- Automação de testes e E2E  
+- CI/CD e qualidade de software  
+- Bacharelado em Sistemas de Informação  
 
 ---
 
@@ -82,7 +88,7 @@ Gosto de entender o problema antes de escrever código, buscar soluções simple
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### Athenas Online — Software de gestão contábil e fiscal
 
@@ -125,7 +131,7 @@ Sistema web desenvolvido para gerenciar o ciclo completo de uma fábrica de esqu
 
 ### Gravity — Jogo mobile publicado na Play Store
 
-> Dart · Flutter · Android Studio · Projeto pessoal · [▶ Jogar na Play Store](https://play.google.com/store/apps/details?id=com.gravidade.app)
+> Dart · Flutter · Android Studio · Projeto pessoal · [Jogar na Play Store](https://play.google.com/store/apps/details?id=com.gravidade.app)
 
 Runner infinito 2D com estética pixel art e cenário cyberpunk. O jogador controla um personagem que pode inverter a gravidade a qualquer momento para desviar de obstáculos que surgem tanto do chão quanto do teto em velocidade crescente.
 
