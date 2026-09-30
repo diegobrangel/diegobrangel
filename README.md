@@ -105,6 +105,26 @@ Sistema web desenvolvido para gerenciar o ciclo completo de uma fábrica de esqu
 
 ---
 
+### Athenas Online — ERP SaaS para gestão empresarial
+
+> Repositório privado · GitLab · Em produção · Projeto profissional
+
+ERP SaaS multi-tenant onde atuo como desenvolvedor. O sistema cobre gestão comercial, fiscal e operacional — da emissão de documentos fiscais (NF-e, CT-e, MDF-e) ao controle financeiro e de projetos — com múltiplos clientes isolados em um único ambiente.
+
+**O que o sistema resolve:**
+- Emissão e gerenciamento de NF-e, CT-e e MDF-e com integração direta à SEFAZ
+- API REST com autenticação JWT e OAuth2 (Microsoft e Google)
+- Filas de processamento assíncrono com Redis e workers dedicados
+- Pipeline de CI/CD automatizado no GitLab com cobertura de testes e análise estática
+- Geração de relatórios e documentos PDF
+- Integração com Microsoft Graph (e-mail, calendário) e AWS S3
+
+**Stack principal:** PHP 8 · Slim Framework · CakePHP · Firebird · Redis · Docker · GitLab CI/CD · PHPUnit · PHPStan
+
+[![GitLab](https://img.shields.io/badge/Ver_no_GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/jpedro/athenas-online)
+
+---
+
 ## Contribuições
 
 <picture>
