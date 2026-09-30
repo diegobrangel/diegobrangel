@@ -82,7 +82,25 @@ Gosto de entender o problema antes de escrever código, buscar soluções simple
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
+
+### Athenas Online — Software de gestão contábil e fiscal
+
+> Repositório privado · GitLab · Em produção · Projeto profissional
+
+Sistema multi-tenant onde atuo como desenvolvedor. O sistema cobre gestão fiscal e operacional — da emissão de documentos fiscais (NF-e, CT-e, MDF-e) ao controle financeiro e de projetos — com múltiplos clientes isolados em um único ambiente.
+
+**O que o sistema resolve:**
+- Emissão e gerenciamento de NF-e, CT-e e MDF-e com integração direta à SEFAZ
+- API REST com autenticação JWT e OAuth2 (Microsoft e Google)
+- Filas de processamento assíncrono com Redis e workers dedicados
+- Pipeline de CI/CD automatizado no GitLab com cobertura de testes e análise estática
+- Geração de relatórios e documentos PDF
+- Integração com Microsoft Graph (e-mail, calendário) e AWS S3
+
+**Stack principal:** PHP 8 · Slim Framework · CakePHP · Firebird · Redis · Docker · GitLab CI/CD · PHPUnit · PHPStan
+
+---
 
 ### Perfila — Sistema de gestão para fábrica de esquadrias de alumínio
 
@@ -105,21 +123,13 @@ Sistema web desenvolvido para gerenciar o ciclo completo de uma fábrica de esqu
 
 ---
 
-### Athenas Online — Software de gestão contábil e fiscal
+### Gravity — Jogo mobile publicado na Play Store
 
-> Repositório privado · GitLab · Em produção · Projeto profissional
+> Dart · Flutter · [Ver na Play Store](https://play.google.com/store/apps/details?id=com.gravidade.app)
 
-Sistema multi-tenant onde atuo como desenvolvedor. O sistema cobre gestão fiscal e operacional — da emissão de documentos fiscais (NF-e, CT-e, MDF-e) ao controle financeiro e de projetos — com múltiplos clientes isolados em um único ambiente.
+Runner infinito 2D com background parallax em que o personagem alterna o centro gravitacional para desviar de obstáculos que surgem tanto do chão quanto do teto. Desenvolvido do zero e publicado de forma independente na Google Play Store.
 
-**O que o sistema resolve:**
-- Emissão e gerenciamento de NF-e, CT-e e MDF-e com integração direta à SEFAZ
-- API REST com autenticação JWT e OAuth2 (Microsoft e Google)
-- Filas de processamento assíncrono com Redis e workers dedicados
-- Pipeline de CI/CD automatizado no GitLab com cobertura de testes e análise estática
-- Geração de relatórios e documentos PDF
-- Integração com Microsoft Graph (e-mail, calendário) e AWS S3
-
-**Stack principal:** PHP 8 · Slim Framework · CakePHP · Firebird · Redis · Docker · GitLab CI/CD · PHPUnit · PHPStan
+**Stack:** Dart · Flutter
 
 ---
 
